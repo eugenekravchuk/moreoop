@@ -10,3 +10,4 @@ public class Demo {
         gameManager.fight(character1, character2);
     }
 }
+
